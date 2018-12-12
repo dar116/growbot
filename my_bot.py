@@ -1,7 +1,7 @@
 import requests
 from  time import sleep
 
-url = "https://api.telegram.org/bot<735585827:AAG0BOqt_OjhnRyaAMQTsS8MhSm-C2Qqjnk>/"
+url = "https://api.telegram.org/bot<>/"
 
 
 def get_updates_json(request):
